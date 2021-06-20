@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "econos",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
